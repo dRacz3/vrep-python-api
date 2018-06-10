@@ -1,0 +1,3 @@
+include vrep_remote_api/remoteApi.dll
+include vrep_remote_api/remoteApi.dylib
+include vrep_remote_api/remoteApi.so
